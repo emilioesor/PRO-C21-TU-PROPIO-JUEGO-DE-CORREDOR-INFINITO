@@ -1,2 +1,1 @@
-# PRO-C21-TU-PROPIO-JUEGO-DE-CORREDOR-INFINITO
-proyecto de clase
+# C21
